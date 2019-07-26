@@ -1,5 +1,5 @@
-const body = document.querySelector("body"),
-    form = body.querySelector("id");
+const form = document.querySelector(".js-id"),
+    fromM = form.querySelector("input");
 
 const out = document.querySelector(".js-out");
 
